@@ -2,8 +2,7 @@
   <h1>Utkarsh Singh</h1>
   <p><em>Computer Science Engineer | Problem Solver | Full-Stack Developer</em></p>
 
-  <img src="[https://img.shields.io/badge/Code-C++%20%7C%20JavaScript-blue?style=for-the-badge](https://img.shields.io/badge/Code-Java%20%7C%20C++%20%7C%20JavaScript-blue?style=for-the-badge
-)">
+  <img src="https://img.shields.io/badge/Code-Java-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Focus-DSA%20%26%20Full%20Stack-success?style=for-the-badge">
   <img src="https://img.shields.io/badge/Learning-Systems%20%7C%20Architecture-orange?style=for-the-badge">
 </div>
@@ -32,13 +31,15 @@
 
 <h3>Programming Languages</h3>
 <ul>
-  <li>C / C++ (DSA, problem solving, recursion, STL)</li>
+  <li>Java, C / C++, (DSA, problem solving, recursion, STL)</li>
   <li>JavaScript (ES6+)</li>
+  <li>MERN Stack</li>
 </ul>
 
 <h3>Frontend</h3>
 <ul>
   <li>React.js</li>
+  <li>JavaScript (ES6+)</li>
   <li>HTML5, CSS3</li>
   <li>Tailwind CSS</li>
 </ul>
