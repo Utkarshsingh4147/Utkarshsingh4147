@@ -2,6 +2,11 @@
   <h1>Utkarsh Singh</h1>
   <p><em>Computer Science Engineer | Problem Solver | Full-Stack Developer</em></p>
 
+  <p>
+    🌐 <strong>Portfolio:</strong> 
+    <a href="https://portfolioutk.netlify.app">https://portfolioutk.netlify.app</a>
+  </p>
+
   <img src="https://img.shields.io/badge/Code-Java-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Focus-DSA%20%26%20Full%20Stack-success?style=for-the-badge">
   <img src="https://img.shields.io/badge/Learning-Systems%20%7C%20Architecture-orange?style=for-the-badge">
@@ -57,23 +62,23 @@
   <li>Data Structures & Algorithms</li>
   <li>Operating System basics</li>
   <li>DBMS fundamentals</li>
-  <li>Computer Networks (introductory)</li>
+  <li>Computer Networks </li>
 </ul>
 
 <hr />
 
 <h2>🚀 Projects</h2>
 
-<h3>🎨 MyPaint</h3>
+<h3>📊 InsightDrive</h3>
 <p>
-  A pixel-based drawing application inspired by MS Paint.
-  Implements the <strong>Flood Fill Algorithm</strong> using graph traversal concepts
-  and React custom hooks.
+  A data-driven application focused on structured feedback systems and analytics.
+  Designed to simulate real-world ride management and review workflows.
 </p>
 <ul>
-  <li>Draw, erase, and fill connected regions</li>
-  <li>Clean component architecture</li>
-  <li>React + Tailwind + Lucide Icons</li>
+  <li>Driver feedback system simulation</li>
+  <li>Admin dashboard for review visibility</li>
+  <li>Clean state handling and modular UI</li>
+  <li>Frontend-focused architecture for demonstration purposes</li>
 </ul>
 
 <h3>🩺 GetaDoc</h3>
@@ -85,6 +90,18 @@
   <li>JWT authentication & role-based access</li>
   <li>Doctor scheduling & appointment management</li>
   <li>Email notifications via SMTP</li>
+</ul>
+
+<h3>🎨 MyPaint</h3>
+<p>
+  A pixel-based drawing application inspired by MS Paint.
+  Implements the <strong>Flood Fill Algorithm</strong> using graph traversal concepts
+  and React custom hooks.
+</p>
+<ul>
+  <li>Draw, erase, and fill connected regions</li>
+  <li>Clean component architecture</li>
+  <li>React + Tailwind + Lucide Icons</li>
 </ul>
 
 <h3>🧮 DSA & Algorithmic Solutions</h3>
